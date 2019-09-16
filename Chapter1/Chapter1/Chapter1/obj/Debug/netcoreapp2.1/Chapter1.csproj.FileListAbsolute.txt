@@ -1,0 +1,11 @@
+C:\Dev\Exam7--483-Book-Prep\Chapter1\Chapter1\Chapter1\bin\Debug\netcoreapp2.1\Chapter1.deps.json
+C:\Dev\Exam7--483-Book-Prep\Chapter1\Chapter1\Chapter1\bin\Debug\netcoreapp2.1\Chapter1.runtimeconfig.json
+C:\Dev\Exam7--483-Book-Prep\Chapter1\Chapter1\Chapter1\bin\Debug\netcoreapp2.1\Chapter1.runtimeconfig.dev.json
+C:\Dev\Exam7--483-Book-Prep\Chapter1\Chapter1\Chapter1\bin\Debug\netcoreapp2.1\Chapter1.dll
+C:\Dev\Exam7--483-Book-Prep\Chapter1\Chapter1\Chapter1\bin\Debug\netcoreapp2.1\Chapter1.pdb
+C:\Dev\Exam7--483-Book-Prep\Chapter1\Chapter1\Chapter1\obj\Debug\netcoreapp2.1\Chapter1.csprojAssemblyReference.cache
+C:\Dev\Exam7--483-Book-Prep\Chapter1\Chapter1\Chapter1\obj\Debug\netcoreapp2.1\Chapter1.csproj.CoreCompileInputs.cache
+C:\Dev\Exam7--483-Book-Prep\Chapter1\Chapter1\Chapter1\obj\Debug\netcoreapp2.1\Chapter1.AssemblyInfoInputs.cache
+C:\Dev\Exam7--483-Book-Prep\Chapter1\Chapter1\Chapter1\obj\Debug\netcoreapp2.1\Chapter1.AssemblyInfo.cs
+C:\Dev\Exam7--483-Book-Prep\Chapter1\Chapter1\Chapter1\obj\Debug\netcoreapp2.1\Chapter1.dll
+C:\Dev\Exam7--483-Book-Prep\Chapter1\Chapter1\Chapter1\obj\Debug\netcoreapp2.1\Chapter1.pdb
